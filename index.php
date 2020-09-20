@@ -1,3 +1,2 @@
 <?php
-echo"hello"
-?>
+echo "man hinh Home dev"
